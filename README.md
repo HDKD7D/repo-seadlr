@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: freshstart300@icloud.com, sandimcc@comcast.net
-At: 2026-09-16 14:07:51
-Id: BlneqXo0
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: nancywashburn54@hotmail.com, cherylsing@aol.com
+At: 2026-09-16 14:08:30
+Id: iYzJuj8b
